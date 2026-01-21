@@ -14,19 +14,9 @@ Developer from Austria. Building pet projects and learning new technologies.
 
 ---
 
-### 📊 GitHub Stats
-
+📊 Most Used Languages
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alti121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alti121&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=alti121&theme=tokyonight&hide_border=true)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alti121&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 ---
