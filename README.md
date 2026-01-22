@@ -21,16 +21,6 @@ Developer from Austria. Building pet projects and learning new technologies.
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/alti121/alti121/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=alti121&style=flat-square&color=58A6FF)
