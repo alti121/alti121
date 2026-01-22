@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Developer from Austria. Building pet projects and learning new technologies.
+Developer from Kyrgyzstan based in Austria. Building pet projects and learning new technologies.
 
 ---
 
