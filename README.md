@@ -14,13 +14,6 @@ Developer from Kyrgyzstan based in Austria. Building pet projects and learning n
 
 ---
 
-📊 Most Used Languages
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alti121&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</div>
-
----
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=alti121&style=flat-square&color=58A6FF)
